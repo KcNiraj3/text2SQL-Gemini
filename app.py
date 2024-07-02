@@ -67,7 +67,7 @@ st.header("Geminin Application for SQL data Retriever")
 question = st.text_input("Give the question: ", key="input")
 submit=st.button("Submit")
 
-# if submit is clicked
+# if submit is clicked then
 
 
 if submit:
